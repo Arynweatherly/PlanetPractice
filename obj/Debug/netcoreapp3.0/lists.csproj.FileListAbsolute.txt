@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.deps.json
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.json
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.dll
+/Users/arynweatherly/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.0/lists.pdb
+/Users/arynweatherly/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.AssemblyInfo.cs
+/Users/arynweatherly/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.dll
+/Users/arynweatherly/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.0/lists.pdb
